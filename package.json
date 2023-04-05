@@ -1,7 +1,17 @@
 {
   "name": "react-developer-tools",
+  "publisher": "trulysinclair",
   "displayName": "React Developer Tools",
   "description": "Useful tools to speed up creation of React components, files, and more.",
+  "repository": {
+    "url": "https://github.com/trulysinclair/react-developer-tools",
+    "type": "git"
+  },
+  "keywords": [
+    "react",
+    "next.js",
+    "typescript"
+  ],
   "version": "0.1.1",
   "engines": {
     "vscode": "^1.77.0"
