@@ -6,7 +6,7 @@
   "engines": {
     "vscode": "^1.77.0"
   },
-  "icon": "assets/logo.png",
+  "icon": "https://github.com/trulysinclair/react-developer-tools/blob/main/assets/logo.png",
   "categories": [
     "Snippets",
     "Formatters"
