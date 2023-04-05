@@ -2,7 +2,7 @@
   "name": "react-developer-tools",
   "displayName": "React Developer Tools",
   "description": "Useful tools to speed up creation of React components, files, and more.",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.77.0"
   },
